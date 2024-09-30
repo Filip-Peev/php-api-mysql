@@ -21,4 +21,4 @@ INSERT INTO users (name, email) VALUES ('John Doe', 'john@example.com');
 INSERT INTO users (name, email) VALUES ('Jane Smith', 'jane@example.com');
 ```
 
-Rename and edit config.sample.php to config.php
+Rename config.sample.php to config.php and edit it with your data.
