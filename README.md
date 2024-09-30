@@ -4,7 +4,7 @@
 
 <br><br>
 
-Query for creating the database:
+Query for creating the database and add two entries:
 
 ```sh
 CREATE DATABASE api_example;
