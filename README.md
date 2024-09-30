@@ -1,8 +1,10 @@
+<br>
+
 ## Simple API responder with PHP and MySQL
 
+<br><br>
 
-
-
+Query for creating the database:
 
 ```sh
 CREATE DATABASE api_example;
