@@ -1,12 +1,5 @@
 Simple API responder with PHP and MySQL
 
 ```sh
-gfgdfgdfgfd
-fdsfd
+code to be copied here
 ```
-
-
->
-> fdfsdfs
->
-> 
