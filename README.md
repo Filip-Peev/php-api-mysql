@@ -26,8 +26,4 @@ INSERT INTO users (name, email) VALUES ('Jane Smith', 'jane@example.com');
 
 <br><br>
 
-Use Postman Import for the tests inside the JSON file.
-
-<br><br>
-
 Use Postman to Import the tests inside the JSON file.
