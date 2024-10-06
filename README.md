@@ -20,3 +20,7 @@ CREATE TABLE users (
 INSERT INTO users (name, email) VALUES ('John Doe', 'john@example.com');
 INSERT INTO users (name, email) VALUES ('Jane Smith', 'jane@example.com');
 ```
+
+<br><br>
+
+Use Postman Import for the tests inside the JSON file.
