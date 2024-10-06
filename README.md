@@ -4,6 +4,10 @@
 
 <br><br>
 
+Rename config.sample.php to config.php and edit it with your relevant data.
+
+<br><br>
+
 The following query will create the database, table, and add two example entries:
 ```sh
 CREATE DATABASE api_example;
@@ -23,10 +27,7 @@ INSERT INTO users (name, email) VALUES ('Jane Smith', 'jane@example.com');
 <br><br>
 
 Use Postman Import for the tests inside the JSON file.
----
 
 <br><br>
 
-
-Use Postman Import for the tests inside the JSON file.
-Rename config.sample.php to config.php and edit it with your relevant data.
+Use Postman to Import the tests inside the JSON file.
